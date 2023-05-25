@@ -7,7 +7,7 @@ Financiering: Vlaamse overheid - Dpt Landbouw en Visserij
 Cofinanciering: Provincie Antwerpen
 Partners: ILVO, KnowH2O, Boerennatuur
 
-Neem een kijkje in de :doc:`hardware`sectie voor het overzicht van het KAD systeem dat werd aangelegd in het kader van het sKAD project. 
+Neem een kijkje in de :doc:`hardware` sectie voor het overzicht van het KAD systeem dat werd aangelegd in het kader van het sKAD project. 
 Wil je weten hoe je het beheer van je drainagesysteem geïnformeerd kan aanpakken, kijk dan bij :doc:`usage`.
 
 .. note::
