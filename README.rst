@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
-=======================================
+Handleiding voor het gebruik van klimaat-adaptieve drainage
+===========================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Hardware ontwikkeld door KnowH2O, Gé van den Eertwegh
+Software en inhoud handleiding ontwikkeld in het kader van het project sKAD- samenwerken aan klimaatadaptieve drainage.
+Financiering: Vlaamse overheid - Dpt Landbouw en Visserij
+Cofinanciering: Provincie Antwerpen
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Partners: ILVO, KnowH2O, Boerennatuur
