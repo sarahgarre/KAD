@@ -7,22 +7,13 @@ Financiering: Vlaamse overheid - Dpt Landbouw en Visserij
 Cofinanciering: Provincie Antwerpen
 Partners: ILVO, KnowH2O, Boerennatuur
 
-.. note::
-
-   This project is under active development.
-
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Neem een kijkje in de :doc:`hardware`sectie voor het overzicht van het KAD systeem dat werd aangelegd in het kader van het sKAD project. 
+Wil je weten hoe je het beheer van je drainagesysteem geïnformeerd kan aanpakken, kijk dan bij :doc:`usage`.
 
 .. note::
 
    This project is under active development.
+   
 
 Contents
 --------
@@ -31,3 +22,4 @@ Contents
 
    usage
    api
+
